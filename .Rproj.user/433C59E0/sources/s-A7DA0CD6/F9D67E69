@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553571080332.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F9D67E69",
+    "lastKnownWriteTime" : 1553573387,
+    "last_content_update" : 1553573387389,
+    "path" : "D:/risky/kampus/GT/belajar/create_ml_model.R",
+    "project_path" : "create_ml_model.R",
+    "properties" : {
+        "cursorPosition" : "11,5",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

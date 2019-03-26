@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553571349778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "917E6B18",
+    "lastKnownWriteTime" : 1553571383,
+    "last_content_update" : 1553571383471,
+    "path" : "D:/risky/kampus/GT/belajar/deploy_ml_credit_model.R",
+    "project_path" : "deploy_ml_credit_model.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
